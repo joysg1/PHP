@@ -3,6 +3,7 @@
 
 ++ Iniciar el servidor local
 --- php -S localhost:8000
+---- Nota: iniciar el servidor dentro del directorio donde esté el archivo .php
 
 ++ Abrir el navegador de preferencia y dirigirse al url:
 --- http://localhost:8000/<nombre_archivo>.php
