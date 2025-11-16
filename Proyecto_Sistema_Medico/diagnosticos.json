@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre_paciente": "Carlos Ramirez",
+    "afeccion": "Problema cardiaco",
+    "sintomas": "",
+    "profesionales": "Dr. Carlos Pérez, Dra. Ana García",
+    "fecha_creacion": "2025-11-15 22:57:47"
+  },
+  {
+    "id": 2,
+    "nombre_paciente": "Luisa Campos",
+    "afeccion": "Ansiedad o estrés",
+    "sintomas": "",
+    "profesionales": "Lic. María Martínez, Dr. Carlos Pérez",
+    "fecha_creacion": "2025-11-15 22:58:22"
+  }
+]

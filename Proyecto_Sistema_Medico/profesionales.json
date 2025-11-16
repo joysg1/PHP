@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nombre": "Dr. Carlos Pérez",
+    "especialidad": "Médico General",
+    "telefono": "555-1001",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Dra. Ana García",
+    "especialidad": "Cardióloga",
+    "telefono": "555-1002",
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "Dr. Luis Rodríguez",
+    "especialidad": "Traumatólogo",
+    "telefono": "555-1003",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Lic. María Martínez",
+    "especialidad": "Psicóloga",
+    "telefono": "555-1004",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "Dra. Laura López",
+    "especialidad": "Dermatóloga",
+    "telefono": "555-1005",
+    "activo": true
+  },
+  {
+    "id": 6,
+    "nombre": "Lic. Pedro Torres",
+    "especialidad": "Nutriólogo",
+    "telefono": "555-1006",
+    "activo": true
+  },
+  {
+    "id": 7,
+    "nombre": "Lic. Carmen Sánchez",
+    "especialidad": "Fisioterapeuta",
+    "telefono": "555-1007",
+    "activo": true
+  }
+]
