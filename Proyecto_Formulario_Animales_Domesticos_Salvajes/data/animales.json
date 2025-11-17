@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "ultimo_id": 3,
+        "total_registros": 3,
+        "ultima_actualizacion": "2025-11-17 18:22:47"
+    },
+    "animales": [
+        {
+            "id": 1,
+            "nombre": "Lia",
+            "tipo": "domestico",
+            "especie": "PDE",
+            "edad": 5,
+            "habitat": "",
+            "caracteristicas": [
+                "mamifero"
+            ],
+            "fecha_registro": "2025-11-17 18:21:17"
+        },
+        {
+            "id": 2,
+            "nombre": "Pepe",
+            "tipo": "salvaje",
+            "especie": "PDE",
+            "edad": 6,
+            "habitat": "",
+            "caracteristicas": [
+                "ave"
+            ],
+            "fecha_registro": "2025-11-17 18:21:59"
+        },
+        {
+            "id": 3,
+            "nombre": "Minina",
+            "tipo": "domestico",
+            "especie": "PDE",
+            "edad": 4,
+            "habitat": "",
+            "caracteristicas": [
+                "mamifero"
+            ],
+            "fecha_registro": "2025-11-17 18:22:47"
+        }
+    ]
+}
