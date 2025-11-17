@@ -1,0 +1,308 @@
+{
+  "Africa": {
+    "nombre_completo": "África",
+    "poblacion": 1340598147,
+    "area_km2": 30370000,
+    "paises_count": 54,
+    "paises": [
+      {
+        "nombre": "Nigeria",
+        "poblacion": 206139587,
+        "capital": "Abuya"
+      },
+      {
+        "nombre": "Etiopía",
+        "poblacion": 114963588,
+        "capital": "Adís Abeba"
+      },
+      {
+        "nombre": "Egipto",
+        "poblacion": 102334404,
+        "capital": "El Cairo"
+      },
+      {
+        "nombre": "República Democrática del Congo",
+        "poblacion": 89561403,
+        "capital": "Kinsasa"
+      },
+      {
+        "nombre": "Sudáfrica",
+        "poblacion": 59308690,
+        "capital": "Pretoria"
+      }
+    ],
+    "idiomas_principales": [
+      "Árabe",
+      "Swahili",
+      "Inglés",
+      "Francés",
+      "Hausa"
+    ],
+    "punto_mas_alto": {
+      "nombre": "Monte Kilimanjaro",
+      "altura_m": 5895,
+      "pais": "Tanzania"
+    },
+    "moneda_comun": false,
+    "curiosidades": [
+      "África es el continente con más países del mundo",
+      "Alberga el río más largo del mundo: el Nilo (6,650 km)",
+      "Tiene las poblaciones de animales salvajes más grandes del mundo"
+    ],
+    "clima": "Ecuatorial, tropical y desértico",
+    "densidad_poblacion": 45.0
+  },
+  "America": {
+    "nombre_completo": "América",
+    "poblacion": 1029525000,
+    "area_km2": 42330000,
+    "paises_count": 35,
+    "paises": [
+      {
+        "nombre": "Estados Unidos",
+        "poblacion": 331002651,
+        "capital": "Washington D.C."
+      },
+      {
+        "nombre": "Brasil",
+        "poblacion": 212559417,
+        "capital": "Brasilia"
+      },
+      {
+        "nombre": "México",
+        "poblacion": 128932753,
+        "capital": "Ciudad de México"
+      },
+      {
+        "nombre": "Colombia",
+        "poblacion": 50882891,
+        "capital": "Bogotá"
+      },
+      {
+        "nombre": "Argentina",
+        "poblacion": 45195774,
+        "capital": "Buenos Aires"
+      }
+    ],
+    "idiomas_principales": [
+      "Español",
+      "Inglés",
+      "Portugués",
+      "Francés"
+    ],
+    "punto_mas_alto": {
+      "nombre": "Monte Aconcagua",
+      "altura_m": 6961,
+      "pais": "Argentina"
+    },
+    "moneda_comun": false,
+    "curiosidades": [
+      "América tiene el río Amazonas, el más caudaloso del mundo",
+      "Contiene el desierto de Atacama, el más seco del mundo",
+      "Tiene la cordillera más larga: los Andes (7,000 km)"
+    ],
+    "clima": "Diverso: polar, templado, tropical",
+    "densidad_poblacion": 24.5
+  },
+  "Asia": {
+    "nombre_completo": "Asia",
+    "poblacion": 4641054775,
+    "area_km2": 44579000,
+    "paises_count": 48,
+    "paises": [
+      {
+        "nombre": "China",
+        "poblacion": 1439323776,
+        "capital": "Pekín"
+      },
+      {
+        "nombre": "India",
+        "poblacion": 1380004385,
+        "capital": "Nueva Delhi"
+      },
+      {
+        "nombre": "Indonesia",
+        "poblacion": 273523615,
+        "capital": "Yakarta"
+      },
+      {
+        "nombre": "Pakistán",
+        "poblacion": 220892340,
+        "capital": "Islamabad"
+      },
+      {
+        "nombre": "Bangladés",
+        "poblacion": 164689383,
+        "capital": "Daca"
+      }
+    ],
+    "idiomas_principales": [
+      "Chino mandarín",
+      "Hindi",
+      "Árabe",
+      "Bengalí",
+      "Ruso"
+    ],
+    "punto_mas_alto": {
+      "nombre": "Monte Everest",
+      "altura_m": 8849,
+      "pais": "Nepal/China"
+    },
+    "moneda_comun": false,
+    "curiosidades": [
+      "Asia es el continente más grande y poblado del mundo",
+      "Alberga el punto más alto de la Tierra: el Monte Everest",
+      "Tiene la economía de más rápido crecimiento del mundo"
+    ],
+    "clima": "Diverso: desde ártico hasta tropical",
+    "densidad_poblacion": 150.0
+  },
+  "Europa": {
+    "nombre_completo": "Europa",
+    "poblacion": 747636026,
+    "area_km2": 10180000,
+    "paises_count": 44,
+    "paises": [
+      {
+        "nombre": "Rusia",
+        "poblacion": 145934462,
+        "capital": "Moscú"
+      },
+      {
+        "nombre": "Alemania",
+        "poblacion": 83783942,
+        "capital": "Berlín"
+      },
+      {
+        "nombre": "Reino Unido",
+        "poblacion": 67886011,
+        "capital": "Londres"
+      },
+      {
+        "nombre": "Francia",
+        "poblacion": 65273511,
+        "capital": "París"
+      },
+      {
+        "nombre": "Italia",
+        "poblacion": 60461826,
+        "capital": "Roma"
+      }
+    ],
+    "idiomas_principales": [
+      "Ruso",
+      "Alemán",
+      "Inglés",
+      "Francés",
+      "Italiano"
+    ],
+    "punto_mas_alto": {
+      "nombre": "Monte Elbrús",
+      "altura_m": 5642,
+      "pais": "Rusia"
+    },
+    "moneda_comun": true,
+    "curiosidades": [
+      "Europa tiene la moneda común más exitosa: el Euro",
+      "Es el continente con más países por área",
+      "Tiene la población más envejecida del mundo"
+    ],
+    "clima": "Templado en su mayoría",
+    "densidad_poblacion": 34.0
+  },
+  "Oceania": {
+    "nombre_completo": "Oceanía",
+    "poblacion": 42677813,
+    "area_km2": 8526000,
+    "paises_count": 14,
+    "paises": [
+      {
+        "nombre": "Australia",
+        "poblacion": 25499884,
+        "capital": "Canberra"
+      },
+      {
+        "nombre": "Papúa Nueva Guinea",
+        "poblacion": 8947024,
+        "capital": "Puerto Moresby"
+      },
+      {
+        "nombre": "Nueva Zelanda",
+        "poblacion": 4822233,
+        "capital": "Wellington"
+      },
+      {
+        "nombre": "Fiyi",
+        "poblacion": 896445,
+        "capital": "Suva"
+      },
+      {
+        "nombre": "Islas Salomón",
+        "poblacion": 686884,
+        "capital": "Honiara"
+      }
+    ],
+    "idiomas_principales": [
+      "Inglés",
+      "Francés",
+      "Tok Pisin",
+      "Fiyiano",
+      "Maorí"
+    ],
+    "punto_mas_alto": {
+      "nombre": "Monte Wilhelm",
+      "altura_m": 4509,
+      "pais": "Papúa Nueva Guinea"
+    },
+    "moneda_comun": false,
+    "curiosidades": [
+      "Oceanía es el continente más pequeño en superficie terrestre",
+      "Australia es la isla más grande del mundo",
+      "Tiene la Gran Barrera de Coral, el sistema de arrecifes más grande"
+    ],
+    "clima": "Oceánico y tropical",
+    "densidad_poblacion": 5.0
+  },
+  "Antartida": {
+    "nombre_completo": "Antártida",
+    "poblacion": 1000,
+    "area_km2": 14000000,
+    "paises_count": 0,
+    "paises": [
+      {
+        "nombre": "Base McMurdo (EEUU)",
+        "poblacion": 250,
+        "capital": "N/A"
+      },
+      {
+        "nombre": "Base Esperanza (Argentina)",
+        "poblacion": 55,
+        "capital": "N/A"
+      },
+      {
+        "nombre": "Base Vostok (Rusia)",
+        "poblacion": 25,
+        "capital": "N/A"
+      }
+    ],
+    "idiomas_principales": [
+      "Inglés",
+      "Ruso",
+      "Español",
+      "Francés"
+    ],
+    "punto_mas_alto": {
+      "nombre": "Macizo Vinson",
+      "altura_m": 4892,
+      "pais": "N/A"
+    },
+    "moneda_comun": false,
+    "curiosidades": [
+      "La Antártida es el continente más frío, seco y ventoso",
+      "Contiene el 90% del hielo mundial y el 70% del agua dulce",
+      "No tiene población nativa, solo investigadores temporales"
+    ],
+    "clima": "Polar extremo",
+    "densidad_poblacion": 8e-05
+  }
+}
