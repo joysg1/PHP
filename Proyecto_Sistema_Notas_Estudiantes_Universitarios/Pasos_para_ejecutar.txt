@@ -1,0 +1,14 @@
+
+++ En una terminal ejecutar:
+
+python app.py
+
+++ En otra terminal ejecutar:
+
+php -S localhost:8000
+
+
+++ En el navegador de preferencia abrir:
+
+http://localhost:8000
+

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "706d2fb3-47da-49bb-afca-aa88446b748a",
+    "cedula": "12345678901234",
+    "nombre": "Jose",
+    "apellido": "Ruiz",
+    "fecha_registro": "2025-11-18T16:41:29.807192",
+    "materias": [
+      {
+        "carrera": "Derecho",
+        "materia": "Derecho Penal",
+        "calificacion": "A",
+        "fecha_registro": "2025-11-18T16:41:29.807199"
+      },
+      {
+        "carrera": "Derecho",
+        "materia": "Sistemas Embebidos",
+        "calificacion": "B",
+        "fecha_registro": "2025-11-18T16:42:36.898460"
+      }
+    ]
+  }
+]
