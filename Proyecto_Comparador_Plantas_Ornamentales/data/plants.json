@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Rosa",
+        "scientific": "Rosa spp.",
+        "description": "Arbusto espinoso con flores fragantes en diversos colores. Ideal para jardines ornamentales.",
+        "characteristics": {
+            "resistencia": 8,
+            "mantenimiento": 6,
+            "floracion": 9,
+            "adaptabilidad": 7,
+            "duracion": 8
+        }
+    },
+    {
+        "id": 2,
+        "name": "Lavanda",
+        "scientific": "Lavandula angustifolia",
+        "description": "Planta aromática mediterránea con flores púrpuras. Perfecta para bordes y jardines secos.",
+        "characteristics": {
+            "resistencia": 9,
+            "mantenimiento": 8,
+            "floracion": 7,
+            "adaptabilidad": 9,
+            "duracion": 8
+        }
+    },
+    {
+        "id": 3,
+        "name": "Orquídea",
+        "scientific": "Orchidaceae",
+        "description": "Flor exótica de gran belleza. Requiere cuidados específicos pero ofrece recompensas únicas.",
+        "characteristics": {
+            "resistencia": 4,
+            "mantenimiento": 3,
+            "floracion": 9,
+            "adaptabilidad": 5,
+            "duracion": 7
+        }
+    },
+    {
+        "id": 4,
+        "name": "Cactus",
+        "scientific": "Cactaceae",
+        "description": "Planta suculenta extremadamente resistente. Ideal para principiantes y espacios interiores.",
+        "characteristics": {
+            "resistencia": 10,
+            "mantenimiento": 9,
+            "floracion": 5,
+            "adaptabilidad": 8,
+            "duracion": 9
+        }
+    },
+    {
+        "id": 5,
+        "name": "Hiedra",
+        "scientific": "Hedera helix",
+        "description": "Planta trepadora de crecimiento rápido. Excelente para cubrir muros y crear setos.",
+        "characteristics": {
+            "resistencia": 9,
+            "mantenimiento": 8,
+            "floracion": 3,
+            "adaptabilidad": 9,
+            "duracion": 9
+        }
+    },
+    {
+        "id": 6,
+        "name": "Bambú",
+        "scientific": "Bambusoideae",
+        "description": "Planta de crecimiento veloz que aporta un toque exótico y moderno al jardín.",
+        "characteristics": {
+            "resistencia": 8,
+            "mantenimiento": 7,
+            "floracion": 2,
+            "adaptabilidad": 8,
+            "duracion": 8
+        }
+    }
+]

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#f8fafc" />
+            <stop offset="100%" stop-color="#e2e8f0" />
+        </linearGradient>
+        <linearGradient id="plant" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#4caf50" />
+            <stop offset="100%" stop-color="#388e3c" />
+        </linearGradient>
+    </defs>
+    
+    <!-- Fondo -->
+    <rect width="100%" height="100%" fill="url(#bg)" />
+    
+    <!-- Maceta -->
+    <rect x="150" y="220" width="100" height="40" fill="#8d6e63" stroke="#5d4037" stroke-width="2" rx="5" />
+    
+    <!-- Tallo -->
+    <rect x="195" y="120" width="10" height="100" fill="#795548" stroke="#5d4037" stroke-width="1" />
+    
+    <!-- Hojas -->
+    <ellipse cx="220" cy="160" rx="25" ry="15" fill="#66bb6a" stroke="#388e3c" stroke-width="1" transform="rotate(45 220 160)" />
+    <ellipse cx="180" cy="180" rx="25" ry="15" fill="#66bb6a" stroke="#388e3c" stroke-width="1" transform="rotate(-45 180 180)" />
+    
+    <!-- Copa -->
+    <circle cx="200" cy="100" r="35" fill="url(#plant)" stroke="#2e7d32" stroke-width="2" />
+    
+    <!-- Texto -->
+    <text x="200" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#374151">
+        Planta Decorativa
+    </text>
+    <text x="200" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">
+        Imagen representativa
+    </text>
+    
+    <!-- Detalles decorativos -->
+    <circle cx="190" cy="95" r="3" fill="#ffeb3b" />
+    <circle cx="210" cy="105" r="3" fill="#ffeb3b" />
+    <circle cx="200" cy="85" r="3" fill="#ffeb3b" />
+</svg>
