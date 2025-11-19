@@ -1,0 +1,20 @@
+[
+    {
+        "id": "691e4a436b03a",
+        "nombre": "Marcos",
+        "edad": 21,
+        "ciudad": "Barcelona",
+        "profesion": "Estudiante",
+        "fecha_registro": "2025-11-19 22:52:51",
+        "fecha_actualizacion": "2025-11-19 22:52:51"
+    },
+    {
+        "id": "691e4a59f3a8d",
+        "nombre": "Maria",
+        "edad": 23,
+        "ciudad": "Cadiz",
+        "profesion": "Estudiante",
+        "fecha_registro": "2025-11-19 22:53:13",
+        "fecha_actualizacion": "2025-11-19 22:53:13"
+    }
+]
