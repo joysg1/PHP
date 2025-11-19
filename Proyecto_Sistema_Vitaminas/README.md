@@ -11,5 +11,5 @@ Sistema completo para analizar el impacto de diferentes vitaminas en la producci
 - **Tema Oscuro**: Interfaz profesional y moderna
 - **Arquitectura Escalable**: Estructura de archivos organizada
 
-## Estructura del Proyecto
+
 
